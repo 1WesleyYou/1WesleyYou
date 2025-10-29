@@ -11,23 +11,7 @@ I’m a **Computer Science student at the University of Michigan** with a strong
 ### 🔬 Research & Systems Work  
 - **Agentic Distributed Systems @ [Order Lab](https://orderlab.io/) (UMich CSE, Advisor: [Ryan Huang](https://web.eecs.umich.edu/~ryanph/))**  
   - Building **agent-based failure mitigation** for ZooKeeper/HDFS clusters.  
-  - Integrated **fault injection (ChaosBlade, Kazoo)**, **metrics (Prometheus/Grafana)**, and recovery via **HAProxy + Resilience4j, etc.**.  
-
-- **Operating Systems Projects**  
-  - User-level **threading library** (Mesa monitors, non-preemptive scheduling).  
-  - **Pager & MMU** with copy-on-write, page replacement, and fork/mmap support.  
-  - Unix-style **NFS** with concurrency-safe file operations.  
-
-- **Networking Projects**  
-  - Simulated **TCP sliding window protocols (GBN/SR)** over UDP.  
-  - Built a **multi-interface router** with ARP cache + ICMP.  
-  - Adaptive **video streaming & load-balancing proxies** with Mininet.  
-
-- **Security Projects**  
-  - Web & binary exploitation (XSS, SQLi, ROP, ASLR bypass).  
-  - Reverse engineering with Ghidra.
-  - Digital forensics.
-  - Padding oracle attack/ Length extension attack/ RSA and DH cryptography.
+  - Integrated **fault injection (zkbench, Kazoo)**, **metrics (Prometheus/Grafana)**, and recovery via **HAProxy + Resilience4j, etc.**.  
 
 - **SoftRobot Electronic Control @ [HDR Lab](https://soft.robotics.umich.edu/) (UMich Robotics, Advisor: [Xiaonan Huang](https://robotics.umich.edu/people/faculty/xiaonan-sean-huang/))**  
   - Developed **motion planning, state estimation, and pose rendering** for modular soft-robotic arm sections.  
