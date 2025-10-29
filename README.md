@@ -37,13 +37,13 @@ I’m a **Computer Science student at the University of Michigan** with a strong
 ---
 
 ### 🏆 Award 
-- **ICRA 2025 Best Poster Award** (systems workshop).  
+- **ICRA 2025 Best Poster Award** (IEEE Conference on Robotics and Automation).  
 - RoboMaster **National Champion (2023)**. 
 - Multiple academic excellence scholarships.  
 
 ---
 
-💡 **Interests**: OS internals · Distributed systems · Networking · Reliability & Observability  
+💡 **Interests**: OS internals · Distributed systems · Networking · Reliability & Observability · Efficiency 
 📫 **Contact**: [yuchenxr@umich.edu](mailto:yuchenxr@umich.edu) · [wesley_you@sjtu.edu.cn](mailto:wesley_you@sjtu.edu.cn)  
 
 ---
