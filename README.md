@@ -6,6 +6,10 @@ I’m a **Computer Science student at the University of Michigan** with a strong
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/1WesleyYou)](https://git.io/awesome-stats-card)
 
+My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=arch,kali,apple,neovim,clion,docker,prometheus,go,java,maven,kafka,rust,cpp,git,idea,kubernetes&perline=8)](https://skillicons.dev)
+
 ---
 
 ### 🔬 Research & Systems Work  
