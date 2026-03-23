@@ -2,8 +2,6 @@
 
 I’m a **Computer Science student at the University of Michigan** with a strong background in **operating systems, distributed systems, networking, and reliability engineering**. My work focuses on building **robust, observable, and self-healing infrastructures**.
 
-> 🎯 I am actively looking for **CS PhD opportunities (operating systems / distributed systems / networking)** starting **Fall 2026**!
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/1WesleyYou)](https://git.io/awesome-stats-card)
 
 My Tech Stack
