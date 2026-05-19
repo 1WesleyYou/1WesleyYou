@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yuchen You
 
-I’m a **Computer Science student at the University of Michigan** with a strong background in **operating systems, distributed systems, networking, and reliability engineering**. My work focuses on building **robust, observable, and self-healing infrastructures**.
+I’m a **0-th year Computer Science PhD pre-candidate at the University of Maryland, College Park** with a strong background in **operating systems, distributed systems and networking**. My work focuses on building **robust, observable, and self-healing infrastructures**. I work with [Prof. Alan Liu](https://github.com/zaoxing). 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/1WesleyYou)](https://git.io/awesome-stats-card)
 
@@ -18,18 +18,12 @@ My Tech Stack
 - **SoftRobot Electronic Control @ [HDR Lab](https://soft.robotics.umich.edu/) (UMich Robotics, Advisor: [Xiaonan Huang](https://robotics.umich.edu/people/faculty/xiaonan-sean-huang/))**  
   - Developed **motion planning, state estimation, and pose rendering** for modular soft-robotic arm sections.  
   - Led **STM32 & Orange Pi control stack** (C++/Rust): PID, dynamics, CAN/I2C networking, and PCB design.  
-  - Integrated **PyTorch (ResNet)** for optimization; collaborated with **General Motors**.  
-  - Contributed demos at **ICRA 2025 Workshop (Best Poster)**, RoboSoft 2025, ICON 2025.  
----
-
-### 🏆 Award 
-- **ICRA 2025 Best Poster Award** (IEEE Conference on Robotics and Automation).  
-- RoboMaster **National Champion (2023)**. 
-- Multiple academic excellence scholarships.  
+  - Integrated **PyTorch (ResNet)** for control accuracy optimization; collaborated with **General Motors**, US patent filed in 2026.
+  - Contributed demos at **ICRA 2025 Workshop (Best Poster)**, RoboSoft 2025, ICON 2025.
 
 ---
 
 💡 **Interests**: OS internals · Distributed systems · Networking · Reliability & Observability · Efficiency 
-📫 **Contact**: [yuchenxr@umich.edu](mailto:yuchenxr@umich.edu) · [wesley_you@sjtu.edu.cn](mailto:wesley_you@sjtu.edu.cn)  
+📫 **Contact**: [yuchenxr@umd.edu](mailto:yuchenxr@umd.edu) · [yuchenxr@umich.edu](mailto:yuchenxr@umich.edu) · [wesley_you@sjtu.edu.cn](mailto:wesley_you@sjtu.edu.cn)  
 
 ---
