@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yuchen You
 
-I’m a **0-th year Computer Science PhD pre-candidate at the University of Maryland, College Park** with a strong background in **operating systems, distributed systems and networking**. My work focuses on building **robust, observable, and self-healing infrastructures**. I work with [Prof. Alan Liu](https://github.com/zaoxing). 
+I’m a **1-st year Computer Science PhD pre-candidate at the University of Maryland, College Park** with a strong background in **operating systems, distributed systems and networking**. My work focuses on building **robust, observable, and self-healing infrastructures**. I work with [Prof. Alan Liu](https://github.com/zaoxing). 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/1WesleyYou)](https://git.io/awesome-stats-card)
 
